@@ -1,3 +1,3 @@
 # holbertonschool-web-development
 
-Remake a static website from a scratch
+Remake a static website from a scratch.
